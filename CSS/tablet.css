@@ -1,0 +1,15 @@
+.benefits-descriptions {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 588px;
+  margin: 0 auto;
+}
+.main-plans-container__title {
+  margin: 6.5rem auto 0;
+}
+.plan-cards-container {
+  display: flex;
+  justify-content: space-evenly;
+  overflow: hidden;
+}
